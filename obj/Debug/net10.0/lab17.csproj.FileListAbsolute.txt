@@ -1,0 +1,14 @@
+/Users/yaroslav/Desktop/lab17/obj/Debug/net10.0/lab17.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaroslav/Desktop/lab17/obj/Debug/net10.0/lab17.AssemblyInfoInputs.cache
+/Users/yaroslav/Desktop/lab17/obj/Debug/net10.0/lab17.AssemblyInfo.cs
+/Users/yaroslav/Desktop/lab17/obj/Debug/net10.0/lab17.csproj.CoreCompileInputs.cache
+/Users/yaroslav/Desktop/lab17/bin/Debug/net10.0/lab17
+/Users/yaroslav/Desktop/lab17/bin/Debug/net10.0/lab17.deps.json
+/Users/yaroslav/Desktop/lab17/bin/Debug/net10.0/lab17.runtimeconfig.json
+/Users/yaroslav/Desktop/lab17/bin/Debug/net10.0/lab17.dll
+/Users/yaroslav/Desktop/lab17/bin/Debug/net10.0/lab17.pdb
+/Users/yaroslav/Desktop/lab17/obj/Debug/net10.0/lab17.dll
+/Users/yaroslav/Desktop/lab17/obj/Debug/net10.0/refint/lab17.dll
+/Users/yaroslav/Desktop/lab17/obj/Debug/net10.0/lab17.pdb
+/Users/yaroslav/Desktop/lab17/obj/Debug/net10.0/lab17.genruntimeconfig.cache
+/Users/yaroslav/Desktop/lab17/obj/Debug/net10.0/ref/lab17.dll
